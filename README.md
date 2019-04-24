@@ -25,5 +25,5 @@ Basics:
   *Unit testing: 
   *Web Scraping: 
   *Use SQL data: 
-  *EXE creation: 
+  *EXE creation:  
 
