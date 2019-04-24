@@ -1,7 +1,7 @@
 # python
 Python Topics:
 
-Basics:
+Basics:  
   *Comment and Data type: single line and multiline comment, int, float, double, complex, binary, hexadecimal, boolean  
   *Sequence Type: string, list, tuple, set, range, dictionary  
   *Operator and Operand: Arithmetic, assignment, comparison, logical  
